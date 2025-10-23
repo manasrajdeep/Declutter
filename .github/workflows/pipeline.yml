@@ -3,7 +3,7 @@ name: Build and Test
 on: [push, pull_request]
 
 jobs:
-  uv-example:
+  build-and-test:
     name: python
     runs-on: ubuntu-latest
 
