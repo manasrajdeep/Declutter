@@ -1,9 +1,6 @@
-import os
-import random
 import unittest
 from pathlib import Path
 
-from declutter.extensions import formats
 from declutter.functions import create, organize, remove
 
 
